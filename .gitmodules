@@ -1,0 +1,6 @@
+[submodule "cotire"]
+	path = cotire
+	url = https://github.com/sakra/cotire.git
+[submodule "qtthreadmessagedispatcher"]
+	path = qtthreadmessagedispatcher
+	url = https://github.com/andrascii/qtthreadmessagedispatcher.git
